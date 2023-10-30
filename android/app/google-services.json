@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "990524283046",
+    "project_id": "publicgovpro-4e5bf",
+    "storage_bucket": "publicgovpro-4e5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990524283046:android:a17632f45e208d94c53c67",
+        "android_client_info": {
+          "package_name": "com.example.publicgovpr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990524283046-n7lckcppuqpvl47qn6cee9t3610fe0on.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.publicgovpr",
+            "certificate_hash": "c93cfc4d5f250aa31af289f69c7e94fa6c39cecb"
+          }
+        },
+        {
+          "client_id": "990524283046-t2orj1qh53u92r2i7cvuqenebbsupu3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNLGhn7dBIgjB9yC63yJuB8jzxUU9lteA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990524283046-t2orj1qh53u92r2i7cvuqenebbsupu3c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990524283046-gbri6jhvc4462lvkaci239ul4mabgumb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.publicgovpr.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
